@@ -20,16 +20,20 @@ A simple weather application built using HTML, CSS, and JavaScript. It fetches r
 ## How to Run
 1. Download the project.
 2. Open `script.js`.
-3. Replace `YOUR_API_KEY_HERE` with your OpenWeatherMap API key.
+3. Replace `API_KEY` with your OpenWeatherMap API key.
 4. Open `index.html` in your browser.
 
 ## Project Structure
 
 Weather-App/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── README.md
+
 └── images/
 
 ## Author
